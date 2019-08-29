@@ -11,3 +11,17 @@ C:\Users\MSI\source\repos\MyFirstWebAPIwithNetCore\MyFirstWebAPIwithNetCore\obj\
 C:\Users\MSI\source\repos\MyFirstWebAPIwithNetCore\MyFirstWebAPIwithNetCore\bin\Debug\netcoreapp2.2\MyFirstWebAPIwithNetCore.pdb
 C:\Users\MSI\source\repos\MyFirstWebAPIwithNetCore\MyFirstWebAPIwithNetCore\obj\Debug\netcoreapp2.2\MyFirstWebAPIwithNetCore.dll
 C:\Users\MSI\source\repos\MyFirstWebAPIwithNetCore\MyFirstWebAPIwithNetCore\obj\Debug\netcoreapp2.2\MyFirstWebAPIwithNetCore.pdb
+C:\Users\MSI\Documents\GitHub\.NetCoreWebAPIFirstExample\MyFirstWebAPIwithNetCore\MyFirstWebAPIwithNetCore\bin\Debug\netcoreapp2.2\MyFirstWebAPIwithNetCore.deps.json
+C:\Users\MSI\Documents\GitHub\.NetCoreWebAPIFirstExample\MyFirstWebAPIwithNetCore\MyFirstWebAPIwithNetCore\bin\Debug\netcoreapp2.2\MyFirstWebAPIwithNetCore.runtimeconfig.json
+C:\Users\MSI\Documents\GitHub\.NetCoreWebAPIFirstExample\MyFirstWebAPIwithNetCore\MyFirstWebAPIwithNetCore\bin\Debug\netcoreapp2.2\MyFirstWebAPIwithNetCore.runtimeconfig.dev.json
+C:\Users\MSI\Documents\GitHub\.NetCoreWebAPIFirstExample\MyFirstWebAPIwithNetCore\MyFirstWebAPIwithNetCore\bin\Debug\netcoreapp2.2\MyFirstWebAPIwithNetCore.dll
+C:\Users\MSI\Documents\GitHub\.NetCoreWebAPIFirstExample\MyFirstWebAPIwithNetCore\MyFirstWebAPIwithNetCore\bin\Debug\netcoreapp2.2\MyFirstWebAPIwithNetCore.pdb
+C:\Users\MSI\Documents\GitHub\.NetCoreWebAPIFirstExample\MyFirstWebAPIwithNetCore\MyFirstWebAPIwithNetCore\obj\Debug\netcoreapp2.2\MyFirstWebAPIwithNetCore.csprojAssemblyReference.cache
+C:\Users\MSI\Documents\GitHub\.NetCoreWebAPIFirstExample\MyFirstWebAPIwithNetCore\MyFirstWebAPIwithNetCore\obj\Debug\netcoreapp2.2\MyFirstWebAPIwithNetCore.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\GitHub\.NetCoreWebAPIFirstExample\MyFirstWebAPIwithNetCore\MyFirstWebAPIwithNetCore\obj\Debug\netcoreapp2.2\MyFirstWebAPIwithNetCore.RazorAssemblyInfo.cache
+C:\Users\MSI\Documents\GitHub\.NetCoreWebAPIFirstExample\MyFirstWebAPIwithNetCore\MyFirstWebAPIwithNetCore\obj\Debug\netcoreapp2.2\MyFirstWebAPIwithNetCore.RazorAssemblyInfo.cs
+C:\Users\MSI\Documents\GitHub\.NetCoreWebAPIFirstExample\MyFirstWebAPIwithNetCore\MyFirstWebAPIwithNetCore\obj\Debug\netcoreapp2.2\MyFirstWebAPIwithNetCore.AssemblyInfoInputs.cache
+C:\Users\MSI\Documents\GitHub\.NetCoreWebAPIFirstExample\MyFirstWebAPIwithNetCore\MyFirstWebAPIwithNetCore\obj\Debug\netcoreapp2.2\MyFirstWebAPIwithNetCore.AssemblyInfo.cs
+C:\Users\MSI\Documents\GitHub\.NetCoreWebAPIFirstExample\MyFirstWebAPIwithNetCore\MyFirstWebAPIwithNetCore\obj\Debug\netcoreapp2.2\MyFirstWebAPIwithNetCore.RazorTargetAssemblyInfo.cache
+C:\Users\MSI\Documents\GitHub\.NetCoreWebAPIFirstExample\MyFirstWebAPIwithNetCore\MyFirstWebAPIwithNetCore\obj\Debug\netcoreapp2.2\MyFirstWebAPIwithNetCore.dll
+C:\Users\MSI\Documents\GitHub\.NetCoreWebAPIFirstExample\MyFirstWebAPIwithNetCore\MyFirstWebAPIwithNetCore\obj\Debug\netcoreapp2.2\MyFirstWebAPIwithNetCore.pdb
